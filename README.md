@@ -1,2 +1,2 @@
-<h1>MY GIT LEARNING EXPERIENCE - LOCAL WEBSITE</h1>
-Status: Finished Lesson
+<h1>My Git Learning Experience: Local Website</h1>
+<p>Status: Finished Lesson</p>
